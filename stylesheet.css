@@ -1,1 +1,7 @@
-
+.fighter{
+    background-color: black;
+    color: gold;
+    border: 2px solid gold;
+    margin: 20px;
+    padding: 20px;
+}
